@@ -47,3 +47,5 @@ Temporary Items
 .apdisk
 /PomodoroAgile/bin/Debug
 /PomodoroAgile/obj/Debug
+/PomodoroAgile.Tests/bin/Debug
+/PomodoroAgile.Tests/obj/Debug

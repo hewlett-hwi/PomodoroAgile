@@ -12,9 +12,11 @@ namespace PomodoroAgile
 {
     public partial class Form1 : Form
     {
+        public int myint { get; set; }
         public Form1()
         {
             InitializeComponent();
+            myint = 1;
         }
     }
 }
